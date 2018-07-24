@@ -1,0 +1,17 @@
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\x86\Release\hexcal.exe.config
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\x86\Release\hexcal.exe.manifest
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\x86\Release\hexcal.application
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\x86\Release\hexcal.exe
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\x86\Release\hexcal.pdb
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\x86\Release\hexcal.xml
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\x86\Release\hexcal.Form1.resources
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\x86\Release\hexcal.Resources.resources
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\x86\Release\hexcal.SplashScreen1.resources
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\x86\Release\hexcal.vbproj.GenerateResource.Cache
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\x86\Release\hexcal.exe.manifest
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\x86\Release\hexcal.application
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\x86\Release\hexcal.exe
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\x86\Release\hexcal.xml
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\x86\Release\hexcal.pdb
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\x86\Release\hexcal.vbprojResolveAssemblyReference.cache
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\x86\Release\hexcal.Form2.resources

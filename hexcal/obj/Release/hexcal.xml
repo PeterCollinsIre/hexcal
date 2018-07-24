@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+hexcal
+</name>
+</assembly>
+<members>
+<member name="T:hexcal.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:hexcal.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:hexcal.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:hexcal.Form1.EastingDistanceFromControlPointOne(hexcal.Form1.pointCoordinate)">
+<summary>
+This function rotates the point around control point 1 by the same angle as control 1 - control 2 to east.
+Then it returns the easting difference from control 1 to the point called.
+</summary>
+</member>
+</members>
+</doc>

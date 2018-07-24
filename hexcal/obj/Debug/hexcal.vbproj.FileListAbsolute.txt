@@ -1,0 +1,35 @@
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\Debug\hexcal.exe.config
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\Debug\hexcal.exe
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\Debug\hexcal.pdb
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\Debug\hexcal.xml
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Debug\hexcal.Form1.resources
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Debug\hexcal.Resources.resources
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Debug\hexcal.SplashScreen1.resources
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Debug\hexcal.vbproj.GenerateResource.Cache
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Debug\hexcal.exe
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Debug\hexcal.xml
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Debug\hexcal.pdb
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Debug\hexcal.vbprojResolveAssemblyReference.cache
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\Debug\hexcal.exe.manifest
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\Debug\hexcal.application
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Debug\hexcal.exe.manifest
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Debug\hexcal.application
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Debug\hexcal.Form2.resources
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Debug\hexcal.vbprojAssemblyReference.cache
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Debug\hexcal.exe
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Debug\hexcal.xml
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Debug\hexcal.pdb
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\bin\Debug\hexcal.exe.config
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\bin\Debug\hexcal.exe.manifest
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\bin\Debug\hexcal.application
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\bin\Debug\hexcal.exe
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\bin\Debug\hexcal.pdb
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\bin\Debug\hexcal.xml
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Debug\hexcal.Form1.resources
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Debug\hexcal.Form2.resources
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Debug\hexcal.Resources.resources
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Debug\hexcal.SplashScreen1.resources
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Debug\hexcal.vbproj.GenerateResource.cache
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Debug\hexcal.vbproj.CoreCompileInputs.cache
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Debug\hexcal.exe.manifest
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Debug\hexcal.application

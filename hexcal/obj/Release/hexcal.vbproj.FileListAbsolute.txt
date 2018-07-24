@@ -1,0 +1,33 @@
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\Release\hexcal.exe.config
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\Release\hexcal.exe.manifest
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\Release\hexcal.application
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\Release\hexcal.exe
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\Release\hexcal.pdb
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\bin\Release\hexcal.xml
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Release\hexcal.Form1.resources
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Release\hexcal.Form2.resources
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Release\hexcal.Resources.resources
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Release\hexcal.SplashScreen1.resources
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Release\hexcal.vbproj.GenerateResource.Cache
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Release\hexcal.exe.manifest
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Release\hexcal.application
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Release\hexcal.exe
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Release\hexcal.xml
+C:\Users\PCollin2\Documents\Visual Studio 2015\Projects\hexcal\hexcal\obj\Release\hexcal.pdb
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\bin\Release\hexcal.exe.config
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\bin\Release\hexcal.exe.manifest
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\bin\Release\hexcal.application
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\bin\Release\hexcal.exe
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\bin\Release\hexcal.pdb
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\bin\Release\hexcal.xml
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Release\hexcal.Form1.resources
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Release\hexcal.Form2.resources
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Release\hexcal.Resources.resources
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Release\hexcal.SplashScreen1.resources
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Release\hexcal.vbproj.GenerateResource.cache
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Release\hexcal.vbproj.CoreCompileInputs.cache
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Release\hexcal.exe.manifest
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Release\hexcal.application
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Release\hexcal.exe
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Release\hexcal.xml
+C:\Users\pcollin2\source\repos\hexcal (1)\hexcal\obj\Release\hexcal.pdb
